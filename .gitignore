@@ -1,0 +1,5 @@
+hw*/**
+.venv/
+.vscode
+project/**
+*.pdf
