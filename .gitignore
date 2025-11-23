@@ -3,3 +3,6 @@ hw*/**
 .vscode
 project/**
 *.pdf
+*.doc
+*.docx
+tictactoe_move_generator.py
